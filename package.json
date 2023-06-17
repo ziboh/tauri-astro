@@ -11,5 +11,9 @@
   },
   "dependencies": {
     "astro": "^2.6.4"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.4.0",
+    "typescript": "^5.1.3"
   }
 }
